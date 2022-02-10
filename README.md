@@ -25,7 +25,7 @@
 
 -----------
 
-- <a href="https://github.com/PROBOY-OP/PRO-LEGENDBOT/network/members"><img src="https://img.shields.io/github/forks/PROBOY-OP/PRO-LEGENDBOT?label=Forks&logoColor=Black&style=social"></a><p align="left">
+- <a href="https://github.com/Legend-Devil02/PRO-LEGENDBOT/network/members"><img src="https://img.shields.io/github/forks/PROBOY-OP/PRO-LEGENDBOT?label=Forks&logoColor=Black&style=social"></a><p align="left">
 
 - <a href="https://github.com/PROBOY-OP/PRO-LEGENDBOT/stargazers"><img src="https://img.shields.io/github/stars/PROBOY-OP/PRO-LEGENDBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/PROBOY-OP/PRO-LEGENDBOT"></a><p align="left"><a href="https://github.com/PROBOY-OP/PRO-LEGENDBOT?"></a>
 
